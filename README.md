@@ -7,7 +7,7 @@
 )](https://www.instagram.com/_anjos00/?next=%2F)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusanjos62&show_icons=true&theme=merko)
-![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=matheusanjos62&bg_color=000000&color=ffea00&line=fbff00&point=ffc800&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=matheusanjos62&bg_color=000000&color=ffea00&line=fbff00&point=ffc800&area=true&hide_border=true)
 
 
 ### Tecnologias
