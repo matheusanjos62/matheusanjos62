@@ -19,4 +19,3 @@
 </div>
  <br /> 
  
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=matheusanjos62&bg_color=000000&color=ffea00&line=c8ff00&point=ffc800&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
